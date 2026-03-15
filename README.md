@@ -11,7 +11,7 @@ Repositori ini dibagi menjadi beberapa modul untuk mempermudah proses belajar:
 3.  **Functions Deep Dive** (`03-functions.js`): Belajar _Arrow Function_, _Callback_, hingga _Closures_.
 4.  **Control Flow** (`04-control-flow.js`): Logika pengkondisian (_If-Else, Switch, Ternary_) dan perulangan modern.
 5.  **Array & Object** (`05-arrays-objects.js`): Manipulasi data kompleks, _Destructuring_, dan _Spread Operator_.
-6.  **Arithmetic Operators** (`09-arithmetic-operators.js`): Operasi matematika, _Increment_, dan _Math Object_.
+6.  **Arithmetic Operators** (`06-arithmetic-operators.js`): Operasi matematika, _Increment_, dan _Math Object_.
 
 ---
 
@@ -32,5 +32,5 @@ Di bagian akhir, terdapat file `final-project-simple.js` yang menggabungkan selu
 
 1. **Clone Repositori ini:**
    ```bash
-   git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
+   git clone [https://github.com/fffsilakk/fundamental-javascript.git]
    ```
